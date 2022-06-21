@@ -1,6 +1,5 @@
 -  Hi, I’m @Ze-oZ
--  I’m interested in ... 
-your Right for Privacy
+-  I’m interested in ... Privacy
 
 <!---
 Ze-oZ/Ze-oZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
